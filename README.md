@@ -30,6 +30,3 @@ This is a login form built using HTML, CSS, and JavaScript. It incorporates the 
 
 4. Enjoy! :smile:
 
-
-
-## Demo
