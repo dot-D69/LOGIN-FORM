@@ -30,3 +30,12 @@ This is a login form built using HTML, CSS, and JavaScript. It incorporates the 
 
 4. Enjoy! :smile:
 
+
+## Live Project
+[Click here](https://dot-d69.github.io/LOGIN-FORM/) to view the live project
+
+## Author
+
+👤 **Anurag**
+
+- LinkedIn: [Anurag](https://www.linkedin.com/in/anurag-vishwas-b21338237/)
