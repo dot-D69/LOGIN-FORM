@@ -32,7 +32,7 @@ This is a login form built using HTML, CSS, and JavaScript. It incorporates the 
 
 
 ## Live Project
-[Click here](https://dot-d69.github.io/LOGIN-FORM/" rel="noopener") to view the live project.
+[Click here](https://dot-d69.github.io/LOGIN-FORM/) to view the live project.
 
 
 
